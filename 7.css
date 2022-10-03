@@ -1,0 +1,53 @@
+div {
+  text-align: center;
+}
+
+.google {
+
+  width: 200px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+}
+
+input {
+
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 16px;
+  padding-left: 16px;
+  width: 500px;
+  font-size: 16px;
+  border-radius: 30px;
+  box-shadow: 0 1px 6px rgba(35, 3, 3, 0.2);
+  margin-bottom: 30px;
+
+
+}
+
+.google-search_1 {
+
+  border: none;
+  background-color: rgb(245, 245, 245);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: Arial;
+  font-size: 15px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.google-search_2 {
+
+  border: none;
+  background-color: rgb(245, 245, 245);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: Arial;
+  font-size: 15px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-left: 15px;
+
+}
